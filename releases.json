@@ -1,9 +1,21 @@
 {
-  "versionCode": 10,
-  "versionName": "0.10",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.10.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T160606Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ee6cac5105af682c23b2d3fb5c361e9bcabd9fc435d32847e681665389ca07c0",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T160606Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5ac952fa134c9450bc725530de9233937bb31328d0232a3a94fea0fc15764a45",
+  "versionCode": 12,
+  "versionName": "0.12",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.12.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T163555Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1432bd31433d63fa2cd107653c46cd44d6a1bb890c313fb7e83441b0d5ad1d58",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T163555Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=64252eccb9ec3d521cb623b2b5b0b03182bd02e61a5ea11696c1ce8a688d3ced",
   "releases": [
+    {
+      "versao": "0.12",
+      "mudou": [
+        "aviso pra garantir que o alerta de atualizacao chegue (bateria/notificacao)"
+      ]
+    },
+    {
+      "versao": "0.11",
+      "mudou": [
+        "seletor de contato mostra o rotulo do numero (Celular/Casa/Trabalho)"
+      ]
+    },
     {
       "versao": "0.10",
       "mudou": [
