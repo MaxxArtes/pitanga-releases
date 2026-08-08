@@ -1,9 +1,21 @@
 {
-  "versionCode": 17,
-  "versionName": "0.17",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.17.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T182104Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=66c571ce3ec8363aa1dacd8e735685c70363f195fb5b27017422ab048afa409e",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T182104Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5cb3993482159331534fd315d69a9f19cc742d779cb1ab30f79f074a122cf750",
+  "versionCode": 19,
+  "versionName": "0.19",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.19.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T185506Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=18e04b72a0670e23816be62ce77d0ea759458292fb0cb7b382e7fbdf1f84d17f",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T185506Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=70a1d1a4b0b2e3d46c6c3b6d93f4f43bc5857c39a01d141fe391b15ca745277f",
   "releases": [
+    {
+      "versao": "0.19",
+      "mudou": [
+        "ativar por botao fisico: atalho 'Pitanga - Falar' (mapear no gesto do Xiaomi) e volume 2x pela acessibilidade"
+      ]
+    },
+    {
+      "versao": "0.18",
+      "mudou": [
+        "painel do comando meio transparente: falar OU escrever; assistente com fallback"
+      ]
+    },
     {
       "versao": "0.17",
       "mudou": [
