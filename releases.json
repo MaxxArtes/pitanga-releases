@@ -1,0 +1,14 @@
+{
+  "versionCode": 8,
+  "versionName": "0.8",
+  "apk": "https://github.com/MaxxArtes/pitanga-releases/releases/download/v0.8/pitanga-v0.8.apk",
+  "releases": [
+    { "versao": "0.8", "mudou": ["ligar por nome corrigido: nao confunde mais mae com mamae"] },
+    { "versao": "0.7", "mudou": ["verificador de atualizacoes na tela de configuracoes", "notificacao quando sai versao nova (sem loja)"] },
+    { "versao": "0.6", "mudou": ["status OFFLINE abaixo do nome", "engrenagem no canto abre Configuracoes"] },
+    { "versao": "0.5", "mudou": ["microfone na direita, vira seta de enviar (padrao WhatsApp)"] },
+    { "versao": "0.4", "mudou": ["voz estilo WhatsApp: segurar para gravar, arrastar para travar/cancelar"] },
+    { "versao": "0.3", "mudou": ["comando por voz (microfone)", "ligar por nome (contatos)", "download em foreground service"] },
+    { "versao": "0.2", "mudou": ["assinatura fixa: atualizacao instala por cima sem desinstalar"] }
+  ]
+}
