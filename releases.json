@@ -1,9 +1,15 @@
 {
-  "versionCode": 15,
-  "versionName": "0.15",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.15.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T174230Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd0d0d1cc4ee5b7fa96e92c2b5d7064254d9176bab5587dd4ba9cfc32e6eccfe",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T174230Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7434b57292ad6440724606297d7d701f74a72da040eb3957bd97b0a766deec28",
+  "versionCode": 16,
+  "versionName": "0.16",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.16.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T175216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b9325195ac78911a182f3a01a05c33f0d31731c53474476c27696d27198b43e",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T175216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=51662744ebfff85a83ce729ac35945621644a87b6b39f8c46cadd893753770db",
   "releases": [
+    {
+      "versao": "0.16",
+      "mudou": [
+        "correcao: instalador sempre baixa a versao atual (antes reinstalava a antiga do cache)"
+      ]
+    },
     {
       "versao": "0.15",
       "mudou": [
