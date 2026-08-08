@@ -1,9 +1,21 @@
 {
-  "versionCode": 13,
-  "versionName": "0.13",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.13.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T165217Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=63f3e93eac9e8f42e02eb8007b9b6c1386ac41ee6e4e30550cd04a50ed4e4d3d",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T165217Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dc0c4725f585c7b89e6f3560ddf60a7c181d60b021c320fa645dace55c5308f7",
+  "versionCode": 15,
+  "versionName": "0.15",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.15.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T174230Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fd0d0d1cc4ee5b7fa96e92c2b5d7064254d9176bab5587dd4ba9cfc32e6eccfe",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T174230Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7434b57292ad6440724606297d7d701f74a72da040eb3957bd97b0a766deec28",
   "releases": [
+    {
+      "versao": "0.15",
+      "mudou": [
+        "espaco de Ajuda na config: o que faz, como falar, privacidade e duvidas"
+      ]
+    },
+    {
+      "versao": "0.14",
+      "mudou": [
+        "ativacao rapida opcional: botao flutuante, notificacao fixa, assistente, bloco nas config. rapidas"
+      ]
+    },
     {
       "versao": "0.13",
       "mudou": [
