@@ -1,14 +1,61 @@
 {
-  "versionCode": 8,
-  "versionName": "0.8",
-  "apk": "https://github.com/MaxxArtes/pitanga-releases/releases/download/v0.8/pitanga-v0.8.apk",
+  "versionCode": 9,
+  "versionName": "0.9",
+  "apk": "https://github.com/MaxxArtes/pitanga-releases/releases/download/v0.9/pitanga-v0.9.apk",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T154854Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4468e6e6a772dca014696d801c5ef02adc545a1c391587c79d87d04cd98a41ba",
   "releases": [
-    { "versao": "0.8", "mudou": ["ligar por nome corrigido: nao confunde mais mae com mamae"] },
-    { "versao": "0.7", "mudou": ["verificador de atualizacoes na tela de configuracoes", "notificacao quando sai versao nova (sem loja)"] },
-    { "versao": "0.6", "mudou": ["status OFFLINE abaixo do nome", "engrenagem no canto abre Configuracoes"] },
-    { "versao": "0.5", "mudou": ["microfone na direita, vira seta de enviar (padrao WhatsApp)"] },
-    { "versao": "0.4", "mudou": ["voz estilo WhatsApp: segurar para gravar, arrastar para travar/cancelar"] },
-    { "versao": "0.3", "mudou": ["comando por voz (microfone)", "ligar por nome (contatos)", "download em foreground service"] },
-    { "versao": "0.2", "mudou": ["assinatura fixa: atualizacao instala por cima sem desinstalar"] }
+    {
+      "versao": "0.9",
+      "mudou": [
+        "instalador embutido: baixa e instala num toque (sem navegador)",
+        "link do modelo vem do manifesto (atualizavel sem recompilar)"
+      ]
+    },
+    {
+      "versao": "0.8",
+      "mudou": [
+        "ligar por nome corrigido: nao confunde mais mae com mamae"
+      ]
+    },
+    {
+      "versao": "0.7",
+      "mudou": [
+        "verificador de atualizacoes na tela de configuracoes",
+        "notificacao quando sai versao nova (sem loja)"
+      ]
+    },
+    {
+      "versao": "0.6",
+      "mudou": [
+        "status OFFLINE abaixo do nome",
+        "engrenagem no canto abre Configuracoes"
+      ]
+    },
+    {
+      "versao": "0.5",
+      "mudou": [
+        "microfone na direita, vira seta de enviar (padrao WhatsApp)"
+      ]
+    },
+    {
+      "versao": "0.4",
+      "mudou": [
+        "voz estilo WhatsApp: segurar para gravar, arrastar para travar/cancelar"
+      ]
+    },
+    {
+      "versao": "0.3",
+      "mudou": [
+        "comando por voz (microfone)",
+        "ligar por nome (contatos)",
+        "download em foreground service"
+      ]
+    },
+    {
+      "versao": "0.2",
+      "mudou": [
+        "assinatura fixa: atualizacao instala por cima sem desinstalar"
+      ]
+    }
   ]
 }
