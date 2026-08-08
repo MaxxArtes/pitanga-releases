@@ -1,9 +1,15 @@
 {
-  "versionCode": 20,
-  "versionName": "0.20",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.20.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T193513Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c938c5e732c0c1818ef5e9767be920d9771a37d8c9ae05a2d9a551a638616527",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T193513Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ebb7e14130d8bfc14d57dff046b518dfc586c717da8206529492977ac2a7db82",
+  "versionCode": 21,
+  "versionName": "0.21",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.21.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T223621Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3b65f265ba2f1db3b20230421899fccbc229faf6ed6ac2100e85504c91b24d2e",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T223621Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a0995df4ad583801a899b60de1b75905cdfc5e3408065cbe42096073d27bd7ec",
   "releases": [
+    {
+      "versao": "0.21",
+      "mudou": [
+        "painel no estilo da barra do Google: pilula arredondada, fruta + campo + icones redondos (mic/QR/documento)"
+      ]
+    },
     {
       "versao": "0.20",
       "mudou": [
