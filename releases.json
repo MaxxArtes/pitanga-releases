@@ -1,9 +1,16 @@
 {
-  "versionCode": 16,
-  "versionName": "0.16",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.16.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T175216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7b9325195ac78911a182f3a01a05c33f0d31731c53474476c27696d27198b43e",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T175216Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=51662744ebfff85a83ce729ac35945621644a87b6b39f8c46cadd893753770db",
+  "versionCode": 17,
+  "versionName": "0.17",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.17.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T182104Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=66c571ce3ec8363aa1dacd8e735685c70363f195fb5b27017422ab048afa409e",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260808%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260808T182104Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5cb3993482159331534fd315d69a9f19cc742d779cb1ab30f79f074a122cf750",
   "releases": [
+    {
+      "versao": "0.17",
+      "mudou": [
+        "bolha e notificacao viram comando de voz direto (sem abrir o app)",
+        "bolha fecha arrastando para o X; botao de assistente robusto"
+      ]
+    },
     {
       "versao": "0.16",
       "mudou": [
