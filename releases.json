@@ -1,9 +1,17 @@
 {
-  "versionCode": 45,
-  "versionName": "0.45",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.45.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T204526Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe48fbfff7c208e60e8143fe6f15d9498b0c49df8cd7810a03b8b1bd60fcd66d",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T204526Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f695a0a5bded11784989c7b866a8823ff434e5789ae12ae678e405733bfa41ce",
+  "versionCode": 46,
+  "versionName": "0.46",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.46.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T212845Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6e3045fd0b69dda1cbef8e47fe279d2609b2d17a7d4c4a1ca83bd120c1f7a280",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T212845Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=322f365a23df287702fe16e2aced44869a0ae38fa087d318d636213d34c2f56d",
   "releases": [
+    {
+      "versao": "0.46",
+      "mudou": [
+        "Aprender comigo: a Pitanga aprende apelidos seus (apps e contatos), tudo no aparelho",
+        "quando nao acha um app ou contato, ela pergunta qual e e guarda pra proxima",
+        "tela Personalizacao: liga/desliga, ensinar contato, ver e apagar o que aprendeu"
+      ]
+    },
     {
       "versao": "0.45",
       "mudou": [
