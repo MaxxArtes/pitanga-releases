@@ -1,9 +1,15 @@
 {
-  "versionCode": 41,
-  "versionName": "0.41",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.41.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T173029Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0f1c9e93bbbc14c2d2e175adbfa2b7c9327da5e047a7ac46981b4f360a8d1e2f",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T173029Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d4aa6a45eaf1fecd4fe6a8360524b4b1c10083785ceabf0ed91f2db42d032ec0",
+  "versionCode": 42,
+  "versionName": "0.42",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.42.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T174205Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c6ee0a2272c0762ff0a43f95f5a7652f1929083ba5064d52ecf72eb743f19ee9",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T174205Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6f5a249aaaa85fc112fdd60a77985a4f273e63bdeda7310b680033432b85f18f",
   "releases": [
+    {
+      "versao": "0.42",
+      "mudou": [
+        "bolha flutuante vira o icone do app em miniatura (fundo escuro + fruta coral)"
+      ]
+    },
     {
       "versao": "0.41",
       "mudou": [
