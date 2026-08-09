@@ -1,9 +1,15 @@
 {
-  "versionCode": 29,
-  "versionName": "0.29",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.29.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T120629Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8ba8a5ebed4580c4895d8b9ef331c7e7c065ad526ce9b810aa75d40d91993065",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T120629Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=56223456c88937a29ce4e3724dde319ab7e5151570434b859dbd56b9681410b0",
+  "versionCode": 30,
+  "versionName": "0.30",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.30.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T121624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c3180a05f6229a3e0781a48df0f0e5ea6e168b8fccc57e458fc33724795a2206",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T121624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6b49b6d0f5c8dd5d8d7bd571052b78a68656aa066e68adbf71993499526a2328",
   "releases": [
+    {
+      "versao": "0.30",
+      "mudou": [
+        "abrir app corrigido: entende o comando e abre qualquer app pelo nome"
+      ]
+    },
     {
       "versao": "0.29",
       "mudou": [
