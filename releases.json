@@ -1,9 +1,15 @@
 {
-  "versionCode": 37,
-  "versionName": "0.37",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.37.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T142550Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2cef23daad6cee57d1140dbdd6556bd72f5df17b806bfecb08f2356c15518942",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T142550Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=93cbe19f27a840be9b2ce0948292cb1f8175c6e5773a2ef73910e26f7f47c2c4",
+  "versionCode": 38,
+  "versionName": "0.38",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.38.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T161103Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=032df4e91184ff0778b97cd5ec4fdfd58c7e7cae068eebd35ae6bda2f4dfbdb6",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T161103Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4b0ab4d4a339e19ee365dc6dd015847769e045da42bcfeb79706b114312497d",
   "releases": [
+    {
+      "versao": "0.38",
+      "mudou": [
+        "icone do app agora e a fruta oficial da logo"
+      ]
+    },
     {
       "versao": "0.37",
       "mudou": [
