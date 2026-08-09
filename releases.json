@@ -1,9 +1,17 @@
 {
-  "versionCode": 44,
-  "versionName": "0.44",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.44.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T201201Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2a3606e0df0a594257fdc80689f5df353dd4ac2c4832178e1b7f00d54062b3c4",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T201201Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=09ecd96b962ced4378ce5e8581b0e72b292f6bad5ddeb637857f3bdd5c11ced1",
+  "versionCode": 45,
+  "versionName": "0.45",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.45.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T204526Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fe48fbfff7c208e60e8143fe6f15d9498b0c49df8cd7810a03b8b1bd60fcd66d",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T204526Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f695a0a5bded11784989c7b866a8823ff434e5789ae12ae678e405733bfa41ce",
   "releases": [
+    {
+      "versao": "0.45",
+      "mudou": [
+        "mandar mensagem no WhatsApp por comando: \"manda um zap pro Joao dizendo ...\"",
+        "acha o contato (se tiver mais de um, voce escolhe) e voce fala/escreve a mensagem",
+        "abre o WhatsApp com o texto ja pronto"
+      ]
+    },
     {
       "versao": "0.44",
       "mudou": [
