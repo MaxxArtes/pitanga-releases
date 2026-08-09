@@ -1,9 +1,16 @@
 {
-  "versionCode": 38,
-  "versionName": "0.38",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.38.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T161103Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=032df4e91184ff0778b97cd5ec4fdfd58c7e7cae068eebd35ae6bda2f4dfbdb6",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T161103Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c4b0ab4d4a339e19ee365dc6dd015847769e045da42bcfeb79706b114312497d",
+  "versionCode": 40,
+  "versionName": "0.40",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.40.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T165138Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f8ce9d0d76bc8d2a6299c04b27813cd1d8d7998236256e123aa327f85162abc3",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T165138Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e5c51253d2c60c082aa0707b8d24e018d1aebd9df7ae2d80a209bdfb8182c72f",
   "releases": [
+    {
+      "versao": "0.40",
+      "mudou": [
+        "bolha flutuante menor e minimalista (fruta branca sobre coral)",
+        "leque de ferramentas estilo gravador: botoes brancos com icone coral, X contornado"
+      ]
+    },
     {
       "versao": "0.38",
       "mudou": [
