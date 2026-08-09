@@ -1,9 +1,15 @@
 {
-  "versionCode": 25,
-  "versionName": "0.25",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.25.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T015214Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7aee53f8479a2d2ff3d991d9024b87431491a0224cd8504826a65fb01ea5991a",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T015214Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0a78ace864a51dff90f3458873ac71d7d3c9bf85d5ced81359e9dd2c9e59a151",
+  "versionCode": 26,
+  "versionName": "0.26",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.26.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T094628Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1a5555156abeb2ea868a332598ed88326cf2fc9312e10250d71e982ded00e972",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T094628Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d93b99ce3d03b84043a948fbf279d60ead3c559c456bbd98388c20e6d9e5512b",
   "releases": [
+    {
+      "versao": "0.26",
+      "mudou": [
+        "camera propria (CameraX + ML Kit bundled): QR/Texto/Documento sem Google Play Services"
+      ]
+    },
     {
       "versao": "0.25",
       "mudou": [
