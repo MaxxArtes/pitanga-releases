@@ -1,9 +1,15 @@
 {
-  "versionCode": 24,
-  "versionName": "0.24",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.24.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T013553Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=820d3b1cabd2d3ba48adf2995684b3a702a7b3e8ac8a2824830b731c41423d2c",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T013553Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=17d7effa97294d1c9df61e95eb792b952c9ac1bbe8392984748c30a54ed3ebdc",
+  "versionCode": 25,
+  "versionName": "0.25",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.25.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T015214Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7aee53f8479a2d2ff3d991d9024b87431491a0224cd8504826a65fb01ea5991a",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T015214Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0a78ace864a51dff90f3458873ac71d7d3c9bf85d5ced81359e9dd2c9e59a151",
   "releases": [
+    {
+      "versao": "0.25",
+      "mudou": [
+        "botao Texto: fotografa numero/texto, le no aparelho (OCR) e ja oferece WhatsApp / Ligar / Copiar"
+      ]
+    },
     {
       "versao": "0.24",
       "mudou": [
