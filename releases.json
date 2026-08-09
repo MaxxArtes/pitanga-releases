@@ -1,9 +1,17 @@
 {
-  "versionCode": 26,
-  "versionName": "0.26",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.26.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T094628Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1a5555156abeb2ea868a332598ed88326cf2fc9312e10250d71e982ded00e972",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T094628Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d93b99ce3d03b84043a948fbf279d60ead3c559c456bbd98388c20e6d9e5512b",
+  "versionCode": 28,
+  "versionName": "0.28",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.28.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T114746Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bcedcbfdd0a3d65c69299f4869db8f980985a5b4ec4173d511cb961ed43c7c18",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T114746Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6a5a7e7491620377d67137a449015ddb84cf915be2a55756299536c4be7caefd",
   "releases": [
+    {
+      "versao": "0.28",
+      "mudou": [
+        "camera com opcoes nomeadas (Ler QR/Texto/Documento)",
+        "home com exemplos tocaveis",
+        "bolha nao joga pro app antes de abrir o painel"
+      ]
+    },
     {
       "versao": "0.26",
       "mudou": [
