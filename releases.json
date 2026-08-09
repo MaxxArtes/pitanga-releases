@@ -1,9 +1,16 @@
 {
-  "versionCode": 35,
-  "versionName": "0.35",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.35.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T134805Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=54b2db9e1cdca76e45c83c35f7c0bc1f7a115eaa1a5f9163b524b86bf7ea54a9",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T134805Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2dc85a04140117417112d9beb4c300584fd2b20a60b24e058ca1b63c67f76a38",
+  "versionCode": 37,
+  "versionName": "0.37",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.37.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T142550Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=2cef23daad6cee57d1140dbdd6556bd72f5df17b806bfecb08f2356c15518942",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T142550Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=93cbe19f27a840be9b2ce0948292cb1f8175c6e5773a2ef73910e26f7f47c2c4",
   "releases": [
+    {
+      "versao": "0.37",
+      "mudou": [
+        "logo oficial PITANGA IA no cabecalho e na abertura",
+        "tela de abertura (splash) com a marca"
+      ]
+    },
     {
       "versao": "0.35",
       "mudou": [
