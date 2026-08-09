@@ -1,9 +1,15 @@
 {
-  "versionCode": 28,
-  "versionName": "0.28",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.28.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T114746Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bcedcbfdd0a3d65c69299f4869db8f980985a5b4ec4173d511cb961ed43c7c18",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T114746Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6a5a7e7491620377d67137a449015ddb84cf915be2a55756299536c4be7caefd",
+  "versionCode": 29,
+  "versionName": "0.29",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.29.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T120029Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f986ac8dfcbc4f9667095b46bbfa103525320a6d2e689e8d2fde43014a7c687f",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T120029Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a3b9e8c33638f97086c9c7b01a2f575754f444dc167e672b45f8686cfef173de",
   "releases": [
+    {
+      "versao": "0.29",
+      "mudou": [
+        "bolha gruda na borda e esconde metade quando parada (menos intrusiva)"
+      ]
+    },
     {
       "versao": "0.28",
       "mudou": [
