@@ -1,9 +1,16 @@
 {
-  "versionCode": 46,
-  "versionName": "0.46",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.46.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T212845Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6e3045fd0b69dda1cbef8e47fe279d2609b2d17a7d4c4a1ca83bd120c1f7a280",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T212845Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=322f365a23df287702fe16e2aced44869a0ae38fa087d318d636213d34c2f56d",
+  "versionCode": 48,
+  "versionName": "0.48-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.48-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T232414Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=82b28a1b5031e050a78700ba490e64289a04ad4007e39c1d35e31403ff7cdcfd",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T232414Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b535155ea3d3c04a5ca4edf9a162bb88502120f755e3f674c0640ca9745321be",
   "releases": [
+    {
+      "versao": "0.48-beta",
+      "mudou": [
+        "app marcado como VERSAO DE TESTE (BETA): selo no cabecalho, aviso na abertura, nome \"Pitanga Beta\"",
+        "Meus documentos (BETA): aponte uma pasta e ache um arquivo pela busca (le no aparelho)"
+      ]
+    },
     {
       "versao": "0.46",
       "mudou": [
