@@ -1,9 +1,16 @@
 {
-  "versionCode": 30,
-  "versionName": "0.30",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.30.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T121624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c3180a05f6229a3e0781a48df0f0e5ea6e168b8fccc57e458fc33724795a2206",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T121624Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6b49b6d0f5c8dd5d8d7bd571052b78a68656aa066e68adbf71993499526a2328",
+  "versionCode": 33,
+  "versionName": "0.33",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.33.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T123459Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7364ac51b1fc16e9b03808e1c67fdff5e5425c4d1f2d035e075100f25c5aaa0d",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260809%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260809T123459Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ed3b4a3d02f27d2ecb0ee5e7e7a10461cfe56e36a29165993337e90277bc6b2f",
   "releases": [
+    {
+      "versao": "0.33",
+      "mudou": [
+        "bolha: clique abre o leque de ferramentas (com X), segurar abre a voz",
+        "abrir app acha o WhatsApp Business e qualquer app pelo nome"
+      ]
+    },
     {
       "versao": "0.30",
       "mudou": [
