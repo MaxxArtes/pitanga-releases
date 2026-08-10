@@ -1,9 +1,16 @@
 {
-  "versionCode": 49,
-  "versionName": "0.49-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.49-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T104705Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7647089e014bd14f6d12c326fc094830eb81338b89ea9acb92707db7093d57df",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T104705Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=6d9eb8ac0f384eaf8bc0c2bbd9bddc742aad88cd3c10ca772c0fa3cd9d43c7e9",
+  "versionCode": 50,
+  "versionName": "0.50-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.50-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T110032Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=58a46728620fa22155d2ac0e6bf57f4b8500f5136631924c44c1518c2df65a22",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T110032Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b5adf5c50042730679722ff6c35a3bb0ff54301be7a3bcf510f45f60e15dedde",
   "releases": [
+    {
+      "versao": "0.50-beta",
+      "mudou": [
+        "criar PDF de fotos e salvar na pasta que voce escolher",
+        "documento escaneado agora oferece Abrir / Salvar / Enviar"
+      ]
+    },
     {
       "versao": "0.49-beta",
       "mudou": [
