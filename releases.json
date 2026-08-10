@@ -1,9 +1,17 @@
 {
-  "versionCode": 50,
-  "versionName": "0.50-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.50-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T110032Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=58a46728620fa22155d2ac0e6bf57f4b8500f5136631924c44c1518c2df65a22",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T110032Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b5adf5c50042730679722ff6c35a3bb0ff54301be7a3bcf510f45f60e15dedde",
+  "versionCode": 51,
+  "versionName": "0.51-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.51-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T111916Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3cd7968824797edb2a959ac871d67459a74ab0f8b32cf9cea5833edf9316130e",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T111916Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=248fd506bd2ce25279c780a4e11210d376cfb4df72a529ef233f1ff88308d075",
   "releases": [
+    {
+      "versao": "0.51-beta",
+      "mudou": [
+        "compartilhe foto/PDF/texto de qualquer app pra Pitanga (aparece no menu Compartilhar)",
+        "imagem: le o texto e ja oferece WhatsApp/Ligar/Copiar ou virar PDF",
+        "varias fotos viram um PDF; PDF recebido pode salvar na pasta ou encaminhar"
+      ]
+    },
     {
       "versao": "0.50-beta",
       "mudou": [
