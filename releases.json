@@ -1,9 +1,15 @@
 {
-  "versionCode": 61,
-  "versionName": "0.61-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.61-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T153433Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0c9e9b91b7c4cb573aa7af3084ebc9efb701f08cfd963e2551347a362fdea8e0",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T153433Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3467ca743d341a6b43668f78f5f33bc2c6e6a533199f9c857fbd5d3cb125ec5b",
+  "versionCode": 62,
+  "versionName": "0.62-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.62-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T160351Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dfe92dc0af98269ee71a82d4a2f070c05455d2ab464e887f2842ae15e73772ad",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T160351Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dd81870ff25d7167ff366e076d41b54110fc7087190393c65e7d5b41b21051bd",
   "releases": [
+    {
+      "versao": "0.62-beta",
+      "mudou": [
+        "acessibilidade: melhor contraste (some o roxo do Switch; fundo animado mais sutil)"
+      ]
+    },
     {
       "versao": "0.61-beta",
       "mudou": [
