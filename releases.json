@@ -1,9 +1,15 @@
 {
-  "versionCode": 51,
-  "versionName": "0.51-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.51-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T111916Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3cd7968824797edb2a959ac871d67459a74ab0f8b32cf9cea5833edf9316130e",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T111916Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=248fd506bd2ce25279c780a4e11210d376cfb4df72a529ef233f1ff88308d075",
+  "versionCode": 52,
+  "versionName": "0.52-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.52-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T115713Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7350703ae2b21c28f4e617d18f2bdfac6721a3fbbd076d7e5b963961b56b14f2",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260810%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260810T115713Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=a508e31369688853c2f68c198c35e5640448dcbf2c77555b5e3bca6736a89e62",
   "releases": [
+    {
+      "versao": "0.52-beta",
+      "mudou": [
+        "proteger o app com biometria/PIN (opcional, na config)"
+      ]
+    },
     {
       "versao": "0.51-beta",
       "mudou": [
