@@ -1,9 +1,17 @@
 {
-  "versionCode": 70,
-  "versionName": "0.70-beta",
+  "versionCode": 71,
+  "versionName": "0.71-beta",
   "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.70-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260811%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260811T000933Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5ae3cc5335d1b3368096e3cb1648d358b68497a541e1f472f9176648852f38bb",
   "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260811%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260811T000933Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4bb791682c30c20688a77a620295f8b163ab80de8818a0e775b6688a21d313ce",
   "releases": [
+    {
+      "versao": "0.71-beta",
+      "mudou": [
+        "OCR bem melhor em documento denso (fatura): le a letra miuda e em ordem",
+        "acha documento de identidade por comando: \"meu rg\", \"cade meu cpf\", \"minha cnh\"",
+        "menu do \"+\" com Camera, Fotos e Arquivos (com icones)"
+      ]
+    },
     {
       "versao": "0.70-beta",
       "mudou": [
