@@ -1,9 +1,15 @@
 {
-  "versionCode": 77,
-  "versionName": "0.77-beta",
+  "versionCode": 78,
+  "versionName": "0.78-beta",
   "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.77-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260811%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260811T053947Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=64dab62cf5399da2a112421abfc272c97da26bca3585f34403213598a70d7096",
   "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260811%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260811T053947Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=11cf9c33046dd459aeba5b91f4870a8cb4a6703636126d071ec2170b5899e928",
   "releases": [
+    {
+      "versao": "0.78-beta",
+      "mudou": [
+        "Busca de RG/CNH pelos CAMPOS do documento (Registro Geral, orgao expedidor...), nao pela sigla — acha mesmo sem a palavra 'rg' no papel"
+      ]
+    },
     {
       "versao": "0.77-beta",
       "mudou": [
