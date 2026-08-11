@@ -1,9 +1,15 @@
 {
-  "versionCode": 78,
-  "versionName": "0.78-beta",
+  "versionCode": 79,
+  "versionName": "0.79-beta",
   "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.78-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260811%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260811T111400Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3f41b184f7a1a5fad710ac229322081afbe9c98ff4caf8d6edca30b9def4c134",
   "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260811%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260811T111400Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=e6e9e015c4ddf8f1ec5552448d3315e2b4ade49bdcffa10136439a90a9560d02",
   "releases": [
+    {
+      "versao": "0.79-beta",
+      "mudou": [
+        "Lembrete offline por voz/texto: 'me lembra de pagar a conta as 15h', 'me avisa em 10 minutos', 'amanha' — notifica no horario"
+      ]
+    },
     {
       "versao": "0.78-beta",
       "mudou": [
