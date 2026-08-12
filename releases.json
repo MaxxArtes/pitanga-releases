@@ -1,9 +1,17 @@
 {
-  "versionCode": 84,
-  "versionName": "0.84-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.84-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T204420Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=31f8c50db0df38cb17d2230d68d583ad7bf650797516d9820ac488b1ec6ab81b",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T204420Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=280de810aea5148f4fc04b5c54714193954dfd9d059fd88fd32e0aee5d0715cb",
+  "versionCode": 86,
+  "versionName": "0.86-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.86-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T210940Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d81190f90f34d972416f54e569834b4236f37a57c5cf3c56fa7f131b8f7ad18e",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T210940Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1f5f8ca73f7c076ba279197bd021115729e895f61361a54a7bfb121123cb6b97",
   "releases": [
+    {
+      "versao": "0.86-beta",
+      "mudou": [
+        "Bolha com icone do WhatsApp: toque, fale pra quem e o que enviar — a previa aparece na propria bolha, com Enviar ou Abrir no WhatsApp.",
+        "Conectar o WhatsApp agora tem CODIGO de novo: da pra conectar com um aparelho so, sem camera e sem segunda tela.",
+        "Nova tela Plano e cobranca (no beta esta tudo liberado, sem cobranca)."
+      ]
+    },
     {
       "versao": "0.84-beta",
       "mudou": [
