@@ -1,9 +1,17 @@
 {
-  "versionCode": 92,
-  "versionName": "0.92-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.92-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T215654Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=519e3b28b8fe2d42bcfe00c2539646f2025f8251b0bdd1dfdbf55b78fc62abda",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T215654Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=92e5687300e4dd4d21f905064be5f28056e22c09c7e79b00e1a74be7b57c82a6",
+  "versionCode": 94,
+  "versionName": "0.94-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.94-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T222941Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8e8b6baa449da8dae1aebb9cf702fddc476cb5cb9d6cee1c9c466ce6b9133cf6",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T222941Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ef4d5089483d6916fee5a4eff23358425622891dee60689835830a8a2aa58e5a",
   "releases": [
+    {
+      "versao": "0.94-beta",
+      "mudou": [
+        "Se o envio falhar, nada se perde: a Pitaia mantem a mensagem e oferece Tentar novamente.",
+        "Botao de enviar trava enquanto envia — nao manda a mensagem duas vezes por engano.",
+        "A Pitaia agora aparece \"digitando...\" (e \"gravando audio...\") antes de responder, como uma pessoa."
+      ]
+    },
     {
       "versao": "0.92-beta",
       "mudou": [
