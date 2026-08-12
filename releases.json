@@ -1,9 +1,15 @@
 {
-  "versionCode": 81,
-  "versionName": "0.81-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.81-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T165745Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0a45cfe8fb949e7bdbaebeb9ed33994f1ff45bc3a21d249b674ec47af7b04cba",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T165745Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=ac17f784b04abc0085a3791e6c72ed86a0a56290b9f4d50456bb383787116368",
+  "versionCode": 82,
+  "versionName": "0.82-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.82-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T172550Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0be77634f49279f2d03d6471e412fbb5867af589db79bc6def23d73d421e4da7",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T172550Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=af7988a3c2f30aef39ff9a77927b7bcab7a21c0ed55e6c71618447924998a562",
   "releases": [
+    {
+      "versao": "0.82-beta",
+      "mudou": [
+        "WhatsApp: campo de numero com +55 fixo e mascara de digitos — corrige o pareamento (o numero saia sem o codigo do pais)."
+      ]
+    },
     {
       "versao": "0.81-beta",
       "mudou": [
