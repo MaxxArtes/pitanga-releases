@@ -1,9 +1,18 @@
 {
-  "versionCode": 83,
-  "versionName": "0.83-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.83-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T190214Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1ae21e414bb62c481a4d8ed3d4823273d6b1d11564ce7df4462c274547c4328f",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T190214Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=70efd7a7606f5e4b60123158c82f389aa32c15f4f571fdfe6f56b551eaeacdac",
+  "versionCode": 84,
+  "versionName": "0.84-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.84-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T204420Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=31f8c50db0df38cb17d2230d68d583ad7bf650797516d9820ac488b1ec6ab81b",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T204420Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=280de810aea5148f4fc04b5c54714193954dfd9d059fd88fd32e0aee5d0715cb",
   "releases": [
+    {
+      "versao": "0.84-beta",
+      "mudou": [
+        "Integracoes > WhatsApp com dois modos: a Pitaia RESPONDE suas mensagens sozinha, e ENVIA mensagens por voce.",
+        "Nova tela Contexto do bot: escreva o que ele deve saber e veja uma previa da resposta.",
+        "\"manda no whatsapp do Joao dizendo ...\": com o bot ligado, a Pitaia mostra a previa e envia ela mesma (antes so abria o WhatsApp).",
+        "Toda mensagem passa por uma confirmacao sua antes de sair."
+      ]
+    },
     {
       "versao": "0.83-beta",
       "mudou": [
