@@ -1,9 +1,15 @@
 {
-  "versionCode": 82,
-  "versionName": "0.82-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.82-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T172550Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=0be77634f49279f2d03d6471e412fbb5867af589db79bc6def23d73d421e4da7",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T172550Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=af7988a3c2f30aef39ff9a77927b7bcab7a21c0ed55e6c71618447924998a562",
+  "versionCode": 83,
+  "versionName": "0.83-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.83-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T190214Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1ae21e414bb62c481a4d8ed3d4823273d6b1d11564ce7df4462c274547c4328f",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260812%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260812T190214Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=70efd7a7606f5e4b60123158c82f389aa32c15f4f571fdfe6f56b551eaeacdac",
   "releases": [
+    {
+      "versao": "0.83-beta",
+      "mudou": [
+        "WhatsApp: a conexao agora e por QR code. A Pitaia mostra o QR na tela — escaneie com o celular do WhatsApp do bot (precisa de outra tela; de preferencia um numero dedicado). A conexao por codigo saiu: era instavel."
+      ]
+    },
     {
       "versao": "0.82-beta",
       "mudou": [
