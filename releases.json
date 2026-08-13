@@ -1,9 +1,16 @@
 {
-  "versionCode": 94,
-  "versionName": "0.94-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.94-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260813%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260813T005403Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d5b87fc53fb2b8afa2d5e9a4d35a6f681ada83bb66f3125e3f85b973b8034108",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260813%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260813T005403Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=fc525cf98980d61f852b3f109bdd855bbea5e9bcfd4fb2914178c038db291bf4",
+  "versionCode": 95,
+  "versionName": "0.95-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.95-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260813%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260813T022018Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8edfb62b254f775913f2384418fdda2092b973249c6bad24836f353182e6a537",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260813%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260813T022018Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=3befc97cbbfaafb5ee805d981f518feab4e4c71a3db635344a9bfbd7fc867a16",
   "releases": [
+    {
+      "versao": "0.95-beta",
+      "mudou": [
+        "Acha o contato mesmo quando o ditado erra o nome (\"amargor\" -> Amaro).",
+        "Se ainda assim nao achar, a bolha abre a agenda, voce escolhe e a Pitaia APRENDE o apelido — antes ela so fechava."
+      ]
+    },
     {
       "versao": "0.94-beta",
       "mudou": [
