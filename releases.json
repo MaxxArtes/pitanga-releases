@@ -1,9 +1,16 @@
 {
-  "versionCode": 100,
-  "versionName": "0.99-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.99-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T151358Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c555e078d96cc9404929b6b03f98deb6fb2029f1e8e91ab4aa0e980b7d1e4620",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T144924Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4363de936b0d6e0116c0ebf0a406fe1e126c599b5eab8196dbacfb3640b24dde",
+  "versionCode": 101,
+  "versionName": "1.0-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v1.0-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T152126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f93e087195a302c32f9d850422c1f3f54dc7e0ed8cd5cd2088c7cfedcc2257b1",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T152126Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f3638123f5eb0f87f20db3d25723935ff860e27a0bde2f7e4a72753bf80f7b39",
   "releases": [
+    {
+      "versao": "1.0-beta",
+      "mudou": [
+        "Saude do celular: memoria, espaco, temperatura, arquivos grandes e repetidos — e limpeza pelo proprio sistema. Veja em Configuracoes > Como esta seu celular, ou pergunte \"como esta meu celular\".",
+        "Ferramenta de diagnostico (teste) para nos ajudar a evoluir."
+      ]
+    },
     {
       "versao": "0.99-beta",
       "mudou": [
