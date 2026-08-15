@@ -1,9 +1,19 @@
 {
-  "versionCode": 95,
-  "versionName": "0.95-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.95-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T004004Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=b59d1a215ec0fbf6d2e8295a115399b483b2a606afd41dcf4f9d717a5c25a8f3",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T004004Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c27f17f6d1b12cb7fec15316b70783c80dc9c21c89fb63fe393e2a5651585a3b",
+  "versionCode": 97,
+  "versionName": "0.96-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.96-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T044721Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7bef39c10507e36a7481255e724608cb03d55d5d3ba7d7ea52a69e26aca69703",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T044721Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=40babfbee51b9f53c5250f32968131362a5a05e1976f2297aad29ce1a791fc01",
   "releases": [
+    {
+      "versao": "0.96-beta",
+      "mudou": [
+        "Busca de documentos acha arquivo NOVO sozinha: se nao achar de primeira, varre as pastas na hora — e a cada 6h a Pitaia indexa o que chegou (ex.: boleto salvo do WhatsApp).",
+        "Envio de audio pelo bot mais confiavel: falha passageira tenta de novo sozinha, e o erro agora diz o motivo.",
+        "AUTO-PREENCHIMENTO de cadastros (apps e sites): escolha a Pitaia no preenchimento automatico do celular e ela preenche com os dados da nova tela Meus dados — tudo cifrado no aparelho; CPF/RG/nascimento so preenchem com a sua confirmacao.",
+        "Leitura de pagina: compartilhe um link e a Pitaia extrai codigo de rastreio, boleto e datas (vencimento vira lembrete) — e da pra GUARDAR a pagina em Meus documentos pra achar depois.",
+        "Primeiros esbocos (beta): Portais de consulta com sessao guardada e laboratorio de formularios."
+      ]
+    },
     {
       "versao": "0.95-beta",
       "mudou": [
