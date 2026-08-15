@@ -1,7 +1,7 @@
 {
   "versionCode": 100,
   "versionName": "0.99-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.99-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T144924Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=67b7cfbbd52257ceff9212581f658b213b72372e85b8a76cb8bc4ffef2def843",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.99-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T151358Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=c555e078d96cc9404929b6b03f98deb6fb2029f1e8e91ab4aa0e980b7d1e4620",
   "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T144924Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=4363de936b0d6e0116c0ebf0a406fe1e126c599b5eab8196dbacfb3640b24dde",
   "releases": [
     {
@@ -9,7 +9,8 @@
       "mudou": [
         "Busca de documentos precisa de novo: \"minha CNH\" / \"meu RG\" acham o documento certo (e nao certificados ou outros papeis parecidos).",
         "Status de conexao do WhatsApp atualiza na hora, igual em todas as telas: conectou, o aviso some e o envio libera sem sair e voltar.",
-        "Tela Meus documentos rola inteira: o campo de busca nao fica mais escondido atras da barra do sistema."
+        "Tela Meus documentos rola inteira: o campo de busca nao fica mais escondido atras da barra do sistema.",
+        "Ferramentas de diagnostico (teste)."
       ]
     },
     {
