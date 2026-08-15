@@ -1,9 +1,22 @@
 {
-  "versionCode": 97,
-  "versionName": "0.96-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.96-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T044721Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7bef39c10507e36a7481255e724608cb03d55d5d3ba7d7ea52a69e26aca69703",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T044721Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=40babfbee51b9f53c5250f32968131362a5a05e1976f2297aad29ce1a791fc01",
+  "versionCode": 99,
+  "versionName": "0.98-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v0.98-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T140021Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=988f11a11ec6207f80b28a9d1ad444573d6e9104f15285eb0e92de5b71a92d69",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260815%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260815T140021Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=efd2cad5fa6a7a484aee182f366e1df1a640d9260d24274cf4d98f7b980872a8",
   "releases": [
+    {
+      "versao": "0.98-beta",
+      "mudou": [
+        "Conecte o SEU WhatsApp pelo codigo (sem QR): digite seu numero, receba um codigo e informe no proprio celular em Dispositivos conectados > Conectar dispositivo > Conectar com numero de telefone.",
+        "Seguranca: cada aparelho tem a sua propria chave e so controla o proprio WhatsApp."
+      ]
+    },
+    {
+      "versao": "0.97-beta",
+      "mudou": [
+        "As telas nao ficam mais cortadas atras da barra do sistema; o teclado nao cobre o que voce digita."
+      ]
+    },
     {
       "versao": "0.96-beta",
       "mudou": [
