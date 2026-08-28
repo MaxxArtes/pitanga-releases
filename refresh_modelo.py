@@ -8,13 +8,22 @@ quando sai uma versao nova do app.
 import json
 import os
 import subprocess
+from urllib.parse import urlparse
 
 import boto3
 
 REPO = "/opt/pitanga-releases"
 CREDS = "/root/.config/kaggle-r2-creds.json"
 BUCKET = "pocket-lm"
-KEY_MODELO = "app/pitanga-v8-q4_k_m.gguf"
+
+
+def chave_do_url(url: str) -> str:
+    """Extrai a chave R2 de um presigned antigo (troca de modelo nao exige editar aqui)."""
+    caminho = urlparse(url).path.lstrip("/")
+    if caminho.startswith(BUCKET + "/"):
+        caminho = caminho[len(BUCKET) + 1:]
+    assert caminho.startswith("app/"), f"chave inesperada no manifesto: {caminho}"
+    return caminho
 
 
 def _s3():
@@ -42,7 +51,7 @@ def main() -> None:
     git("pull", "--quiet", "--ff-only")
     caminho = os.path.join(REPO, "releases.json")
     m = json.load(open(caminho))
-    m["modeloUrl"] = presign(KEY_MODELO)
+    m["modeloUrl"] = presign(chave_do_url(m["modeloUrl"]))
     # APK tambem no R2 (rapido no BR): a chave segue a versao publicada no manifesto.
     m["apk"] = presign(f"app/pitanga-v{m['versionName']}.apk")
     with open(caminho, "w") as f:
