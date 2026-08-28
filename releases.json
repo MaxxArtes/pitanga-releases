@@ -1,9 +1,15 @@
 {
-  "versionCode": 102,
-  "versionName": "1.0.1-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v1.0.1-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260828%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260828T001503Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=17845c241d2608d7948b305d0b797b5f3acdfdf023e85ec50a1cca95cc62185c",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v8-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20260828%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260828T001503Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8c902835f4ffc9680dfa6507a53bfad623bce1abf8491fcd870f9454a1354d38",
+  "versionCode": 103,
+  "versionName": "1.1-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v1.1-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=909a166c7d70aa031e7f08db610ef000%2F20260828%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260828T212715Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dc2715291fbf178c2e6da93c640390f8bb03f2dd508021f139dea6b66910b648",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v9-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=909a166c7d70aa031e7f08db610ef000%2F20260828%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20260828T212715Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1ac7bb21bdbcd94f6048041c13b6d155ade6953ba51a3e41fb1ade4e716712b9",
   "releases": [
+    {
+      "versao": "1.1-beta",
+      "mudou": [
+        "Cérebro novo (v9): entende melhor o que você quer, erra menos fora do assunto e responde com mais precisão. O app baixa o modelo novo (177MB) na primeira abertura."
+      ]
+    },
     {
       "versao": "1.0.1-beta",
       "mudou": [
