@@ -1,8 +1,8 @@
 {
   "versionCode": 104,
   "versionName": "1.2-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v1.2-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20261001%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261001T004252Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=bae10f3b90806a187816c766083be72ddb96dfe299ccef7935acc1dfadd16dc0",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v9-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20261001%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261001T004252Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=d29947bc0b5822af0556fa0b16052aa297a6ac694cdbc5ce48e9a3b0b1bdd890",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v1.2-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20261002%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261002T003002Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=428cd186d769a710814d8b76e9c7b645b5adfcfd130be4d78c3ec200acaf4825",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v9-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=a9b7c1265c11866890aa5568b3a9b0d5%2F20261002%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261002T003002Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=1ea0ffd4a4b4f5988668ca319e2fc2715bdb18fddfdf36e28c76124d78fd09e9",
   "releases": [
     {
       "versao": "1.2-beta",
