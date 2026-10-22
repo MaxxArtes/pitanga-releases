@@ -5,6 +5,7 @@ O presigned do R2 dura no maximo 7 dias; o timer roda a cada 3 dias, entao o lin
 nunca expira pros usuarios. So mexe em modeloUrl — versao/changelog sao editados a mao
 quando sai uma versao nova do app.
 """
+import functools
 import json
 import os
 import subprocess
@@ -13,7 +14,6 @@ from urllib.parse import urlparse
 import boto3
 
 REPO = "/opt/pitanga-releases"
-CREDS = "/root/.config/kaggle-r2-creds.json"
 BUCKET = "pocket-lm"
 
 
@@ -26,8 +26,18 @@ def chave_do_url(url: str) -> str:
     return caminho
 
 
+@functools.lru_cache(maxsize=1)
+def _credenciais() -> dict:
+    """Chave R2 do Doppler (omnigen-ia); o arquivo local de 02/08 foi revogado (401 em 22/10)."""
+    saida = subprocess.run(
+        ["doppler", "secrets", "download", "--project", "omnigen-ia", "--config", "prd", "--no-file", "--format", "json"],
+        check=True, capture_output=True, text=True,
+    ).stdout
+    return json.loads(saida)
+
+
 def _s3():
-    r2 = json.load(open(CREDS))
+    r2 = _credenciais()
     return boto3.client(
         "s3",
         endpoint_url=f"https://{r2['R2_ACCOUNT_ID']}.r2.cloudflarestorage.com",
@@ -51,6 +61,9 @@ def main() -> None:
     git("pull", "--quiet", "--ff-only")
     caminho = os.path.join(REPO, "releases.json")
     m = json.load(open(caminho))
+    # O presign é calculado localmente e sai "válido" mesmo com a chave revogada (22/10: 401 com sucesso no log).
+    for chave in (chave_do_url(m["modeloUrl"]), f"app/pitanga-v{m['versionName']}.apk"):
+        _s3().head_object(Bucket=BUCKET, Key=chave)
     m["modeloUrl"] = presign(chave_do_url(m["modeloUrl"]))
     # APK tambem no R2 (rapido no BR): a chave segue a versao publicada no manifesto.
     m["apk"] = presign(f"app/pitanga-v{m['versionName']}.apk")
