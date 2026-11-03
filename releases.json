@@ -1,9 +1,18 @@
 {
-  "versionCode": 107,
-  "versionName": "1.4.1-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v1.4.1-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=909a166c7d70aa031e7f08db610ef000%2F20261103%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261103T163235Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=478eb551da7da653a28c4f2cb9c3d65cf1d5b070fc6007e41c2a5a1a4f13e0cf",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v9-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=909a166c7d70aa031e7f08db610ef000%2F20261103%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261103T163235Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8936a725a2f0c5cb41fd12a6bb6dad754c2f418df3fa5624900472390f5fcd90",
+  "versionCode": 108,
+  "versionName": "1.4.2-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v1.4.2-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=909a166c7d70aa031e7f08db610ef000%2F20261103%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261103T212000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=dd9d735f4e0b014ab38528aef7348b1d33621b991912cb2a3d942e4e343cd87f",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v9-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=909a166c7d70aa031e7f08db610ef000%2F20261103%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261103T212000Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=f2bab372f64228c83c6a818d0d436ff2fc596936eeccf025fee3854369245bb1",
   "releases": [
+    {
+      "versao": "1.4.2-beta",
+      "mudou": [
+        "Preenche outros cadastros além da Selecon: bancas de concurso, vagas de emprego e lojas. Lê o rótulo em tabela, ao lado do campo e em lista, marca botões de opção (sexo, raça/cor, PcD) e preenche data em 3 caixas.",
+        "Campos novos em Meus dados: nome social, NIS/PIS, título de eleitor (zona e seção), CNH e categoria, raça/cor, PcD e tipo, telefone fixo, país e ponto de referência.",
+        "Nome e Sobrenome separados, DDD separado do número e Tipo de documento (RG) saem do que você já tem salvo.",
+        "Nunca preenche cartão, dado de outra pessoa (responsável, cônjuge, empresa), cota, isenção, cargo ou local de prova."
+      ]
+    },
     {
       "versao": "1.4.1-beta",
       "mudou": [
