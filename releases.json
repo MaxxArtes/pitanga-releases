@@ -1,9 +1,16 @@
 {
-  "versionCode": 106,
-  "versionName": "1.4-beta",
-  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v1.4-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=909a166c7d70aa031e7f08db610ef000%2F20261103%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261103T154929Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=7c65dc7b2fbfac33e668bf7c74e07c81c507cd8b33e19f56c1d0861927b829cc",
-  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v9-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=909a166c7d70aa031e7f08db610ef000%2F20261103%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261103T154929Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=5fdb838296c01d8f65cf3a0efe8e0a7d0076a7fad44b67b1102e3778db6f8086",
+  "versionCode": 107,
+  "versionName": "1.4.1-beta",
+  "apk": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v1.4.1-beta.apk?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=909a166c7d70aa031e7f08db610ef000%2F20261103%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261103T163235Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=478eb551da7da653a28c4f2cb9c3d65cf1d5b070fc6007e41c2a5a1a4f13e0cf",
+  "modeloUrl": "https://ad83d3733c0cb622169b8c02cc007424.r2.cloudflarestorage.com/pocket-lm/app/pitanga-v9-q4_k_m.gguf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=909a166c7d70aa031e7f08db610ef000%2F20261103%2Fauto%2Fs3%2Faws4_request&X-Amz-Date=20261103T163235Z&X-Amz-Expires=604800&X-Amz-SignedHeaders=host&X-Amz-Signature=8936a725a2f0c5cb41fd12a6bb6dad754c2f418df3fa5624900472390f5fcd90",
   "releases": [
+    {
+      "versao": "1.4.1-beta",
+      "mudou": [
+        "Colar meus dados entende fichas do jeito que a gente escreve: com marcadores, comentários depois do valor (\"SESP. Se for uma lista...\") e rótulos curtos como Número e UF, decididos pelo campo de cima (Número depois do RG é o RG; depois do Endereço é o da casa).",
+        "Endereço inteiro numa linha é separado em rua, número, complemento, bairro, cidade, UF e CEP."
+      ]
+    },
     {
       "versao": "1.4-beta",
       "mudou": [
